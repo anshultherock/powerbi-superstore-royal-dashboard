@@ -1,6 +1,6 @@
 # PowerBI Superstore Dashboard - Royal Edition
 
-![Dashboard](Super%20store%201working.pbix)
+![Royal Dashboard](dashboard.png)
 > Replace above line with your screenshot name: ![Dashboard](dashboard.png)
 
 ## Theme
